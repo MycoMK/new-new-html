@@ -1,0 +1,34 @@
+body{
+    background-color: blueviolet;
+    border: 2em;
+    block-size: 812px;
+    box-shadow: 0 0 1em rgba(0,0,0,0.0625);
+    inline-size: 375px;
+    padding: 2em;
+}
+h1,h2{
+    color: aliceblue;
+}
+
+.card{
+    border-radius: 1em;
+    background-color: pink;
+    color: aliceblue;
+    padding: 1em;
+}
+.form_radios{
+    display: grid;
+    gap: 1em;
+    border-radius: 1em;
+    padding: 1em;
+}
+
+.form_radio{
+    align-items: center;
+    display: flex;
+    flex: 1;
+    gap: 10em;
+    border-radius: 2em;
+    padding: 1em;
+    background-color: rgb(235, 10, 47);
+}
